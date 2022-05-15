@@ -1,1 +1,7 @@
 /* styles go here */
+.form__item:not(.form__item:last-child) {
+  padding-bottom: 10px;
+}
+.btn {
+  margin-top: 20px;
+}
